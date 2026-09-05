@@ -67,35 +67,35 @@
     },
     {
       "name": "牛津高阶英汉双解词典(第8版).1.mdd",
-      "releaseName": "8.1.mdd",
+      "releaseName": "oxford-advanced-learner-dictionary-8-supplement.mdd",
       "path": "牛津高阶双解8-oalecd8e/牛津高阶英汉双解词典(第8版).1.mdd",
       "extension": ".mdd",
       "kind": "resource",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/oxford-advanced-learner-dictionary-8-oalecd8e/8.1.mdd"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/oxford-advanced-learner-dictionary-8-oalecd8e/oxford-advanced-learner-dictionary-8-supplement.mdd"
     },
     {
       "name": "牛津高阶英汉双解词典(第8版).mdd",
-      "releaseName": "8.mdd",
+      "releaseName": "oxford-advanced-learner-dictionary-8-primary.mdd",
       "path": "牛津高阶双解8-oalecd8e/牛津高阶英汉双解词典(第8版).mdd",
       "extension": ".mdd",
       "kind": "resource",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/oxford-advanced-learner-dictionary-8-oalecd8e/8.mdd"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/oxford-advanced-learner-dictionary-8-oalecd8e/oxford-advanced-learner-dictionary-8-primary.mdd"
     },
     {
       "name": "牛津高阶英汉双解词典(第8版).mdx",
-      "releaseName": "8.mdx",
+      "releaseName": "oxford-advanced-learner-dictionary-8.mdx",
       "path": "牛津高阶双解8-oalecd8e/牛津高阶英汉双解词典(第8版).mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/oxford-advanced-learner-dictionary-8-oalecd8e/8.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/oxford-advanced-learner-dictionary-8-oalecd8e/oxford-advanced-learner-dictionary-8.mdx"
     },
     {
       "name": "牛津高阶英汉双解词典(第8版).png",
-      "releaseName": "8.PNG",
+      "releaseName": "oxford-advanced-learner-dictionary-8-preview.png",
       "path": "牛津高阶双解8-oalecd8e/牛津高阶英汉双解词典(第8版).png",
       "extension": ".png",
       "kind": "image",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/oxford-advanced-learner-dictionary-8-oalecd8e/8.PNG",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/oxford-advanced-learner-dictionary-8-oalecd8e/oxford-advanced-learner-dictionary-8-preview.png",
       "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E7%89%9B%E6%B4%A5%E9%AB%98%E9%98%B6%E5%8F%8C%E8%A7%A38-oalecd8e/%E7%89%9B%E6%B4%A5%E9%AB%98%E9%98%B6%E8%8B%B1%E6%B1%89%E5%8F%8C%E8%A7%A3%E8%AF%8D%E5%85%B8%28%E7%AC%AC8%E7%89%88%29.png",
       "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E7%89%9B%E6%B4%A5%E9%AB%98%E9%98%B6%E5%8F%8C%E8%A7%A38-oalecd8e/%E7%89%9B%E6%B4%A5%E9%AB%98%E9%98%B6%E8%8B%B1%E6%B1%89%E5%8F%8C%E8%A7%A3%E8%AF%8D%E5%85%B8%28%E7%AC%AC8%E7%89%88%29.png"
     }
