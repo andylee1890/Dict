@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T14:20:40.154538Z",
+  "generatedAt": "2026-09-05T14:33:45.058193Z",
   "repository": "andylee1890/Dict",
   "branch": "main",
   "downloads": "https://downloads.freemdict.com/",
@@ -19,6 +19,7 @@
     {
       "id": "collins-cobuild-overhaul-v2-30",
       "title": "CollinsCOBUILDOverhaul v2.30",
+      "star": 3,
       "folder": "CollinsCOBUILDOverhaul v2.30",
       "tag": "collins-cobuild-overhaul-v2-30",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/collins-cobuild-overhaul-v2-30",
@@ -42,6 +43,7 @@
     {
       "id": "ldoce6-en-cn-v3-0",
       "title": "LDOCE6++ En-Cn V3-0",
+      "star": 5,
       "folder": "LDOCE6++ En-Cn V3-0",
       "tag": "ldoce6-en-cn-v3-0",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/ldoce6-en-cn-v3-0",
@@ -65,6 +67,7 @@
     {
       "id": "word-definition-ratio",
       "title": "单词释义比例",
+      "star": 4,
       "folder": "单词释义比例",
       "tag": "word-definition-ratio",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/word-definition-ratio",
@@ -88,6 +91,7 @@
     {
       "id": "new-concept-english-sentence-dictionary",
       "title": "新概念英语句典",
+      "star": 3,
       "folder": "新概念英语句典",
       "tag": "new-concept-english-sentence-dictionary",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/new-concept-english-sentence-dictionary",
@@ -111,6 +115,7 @@
     {
       "id": "longman-reverse-dictionary",
       "title": "朗文当代反查词典",
+      "star": null,
       "folder": "朗文当代反查词典",
       "tag": "longman-reverse-dictionary",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/longman-reverse-dictionary",
@@ -134,6 +139,7 @@
     {
       "id": "collins-chinese-english-dictionary",
       "title": "柯林斯汉英大词典",
+      "star": 3,
       "folder": "柯林斯汉英大词典",
       "tag": "collins-chinese-english-dictionary",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/collins-chinese-english-dictionary",
@@ -157,6 +163,7 @@
     {
       "id": "oxford-advanced-learner-dictionary-8-oalecd8e",
       "title": "牛津高阶双解8-oalecd8e",
+      "star": 5,
       "folder": "牛津高阶双解8-oalecd8e",
       "tag": "oxford-advanced-learner-dictionary-8-oalecd8e",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/oxford-advanced-learner-dictionary-8-oalecd8e",
@@ -180,6 +187,7 @@
     {
       "id": "oxford-advanced-reverse-dictionary",
       "title": "牛津高阶反查词典",
+      "star": 3,
       "folder": "牛津高阶反查词典",
       "tag": "oxford-advanced-reverse-dictionary",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/oxford-advanced-reverse-dictionary",
@@ -203,6 +211,7 @@
     {
       "id": "concise-bing-css",
       "title": "简明必应版-css",
+      "star": 3,
       "folder": "简明必应版-css",
       "tag": "concise-bing-css",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/concise-bing-css",
@@ -226,6 +235,7 @@
     {
       "id": "english-synonym-differentiation-v6",
       "title": "英语近义词辨析v6",
+      "star": 4,
       "folder": "英语近义词辨析v6",
       "tag": "english-synonym-differentiation-v6",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/english-synonym-differentiation-v6",
@@ -249,6 +259,7 @@
     {
       "id": "word-root-affix-dictionary",
       "title": "词根词缀词典",
+      "star": 3,
       "folder": "词根词缀词典",
       "tag": "word-root-affix-dictionary",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/word-root-affix-dictionary",
@@ -272,6 +283,7 @@
     {
       "id": "word-root-affix-etymology-collection",
       "title": "词根词缀词源 （合集词典）",
+      "star": 3,
       "folder": "词根词缀词源 （合集词典）",
       "tag": "word-root-affix-etymology-collection",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/word-root-affix-etymology-collection",
@@ -295,6 +307,7 @@
     {
       "id": "word-root-affix-frequency-etymology",
       "title": "词根词缀词频词源",
+      "star": 3,
       "folder": "词根词缀词频词源",
       "tag": "word-root-affix-frequency-etymology",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/word-root-affix-frequency-etymology",
@@ -318,6 +331,7 @@
     {
       "id": "dr-eye-bilingual-dictionary",
       "title": "译典通英汉双向字典",
+      "star": 4,
       "folder": "译典通英汉双向字典",
       "tag": "dr-eye-bilingual-dictionary",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/dr-eye-bilingual-dictionary",
@@ -341,6 +355,7 @@
     {
       "id": "synonym-differentiation",
       "title": "近义词词语辨析",
+      "star": 3,
       "folder": "近义词词语辨析",
       "tag": "synonym-differentiation",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/synonym-differentiation",
@@ -364,6 +379,7 @@
     {
       "id": "webster-advanced-english-chinese-dictionary",
       "title": "韦氏高阶英汉双解词典",
+      "star": 3,
       "folder": "韦氏高阶英汉双解词典",
       "tag": "webster-advanced-english-chinese-dictionary",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/webster-advanced-english-chinese-dictionary",

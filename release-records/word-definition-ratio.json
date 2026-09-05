@@ -1,6 +1,7 @@
 {
   "id": "word-definition-ratio",
   "title": "单词释义比例",
+  "star": 4,
   "folder": "单词释义比例",
   "folderPath": "单词释义比例",
   "tag": "word-definition-ratio",

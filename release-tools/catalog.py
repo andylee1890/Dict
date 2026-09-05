@@ -54,6 +54,25 @@ RELEASE_TAGS = {
     "韦氏高阶英汉双解词典": "webster-advanced-english-chinese-dictionary",
 }
 
+DICTIONARY_STARS = {
+    "CollinsCOBUILDOverhaul v2.30": 3,
+    "LDOCE6++ En-Cn V3-0": 5,
+    "单词释义比例": 4,
+    "新概念英语句典": 3,
+    "朗文当代反查词典": None,
+    "柯林斯汉英大词典": 3,
+    "牛津高阶双解8-oalecd8e": 5,
+    "牛津高阶反查词典": 3,
+    "简明必应版-css": 3,
+    "英语近义词辨析v6": 4,
+    "词根词缀词典": 3,
+    "词根词缀词源 （合集词典）": 3,
+    "词根词缀词频词源": 3,
+    "译典通英汉双向字典": 4,
+    "近义词词语辨析": 3,
+    "韦氏高阶英汉双解词典": 3,
+}
+
 PUBLISHED_RELEASES = {
     "collins-cobuild-overhaul-v2-30",
     "new-concept-english-sentence-dictionary",
@@ -206,6 +225,7 @@ def build_entry(folder: Path) -> dict:
     return {
         "id": tag,
         "title": folder.name,
+        "star": DICTIONARY_STARS[folder.name],
         "folder": folder.name,
         "folderPath": folder.name,
         "tag": tag,
@@ -246,6 +266,7 @@ def build_index() -> dict:
             {
                 "id": entry["id"],
                 "title": entry["title"],
+                "star": entry["star"],
                 "folder": entry["folder"],
                 "tag": entry["tag"],
                 "releaseUrl": entry["releaseUrl"],

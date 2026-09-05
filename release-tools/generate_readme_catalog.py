@@ -35,13 +35,15 @@ def main() -> None:
     lines.append("")
     lines.append("## 资源预览")
     lines.append("")
-    lines.append("| 词典 | 封面 | 发布记录 |")
-    lines.append("| --- | --- | --- |")
+    lines.append("| 词典 | 推荐指数 | 封面 | 发布记录 |")
+    lines.append("| --- | :---: | --- | --- |")
+    entries.sort(key=lambda entry: (entry["star"] is None, -(entry["star"] or 0), entry["title"]))
     for entry in entries:
         cover = entry["cover"]["path"] if entry["cover"] else f"{entry['folder']}/Example.png"
         cover_src = "./" + quote(cover, safe="/")
+        stars = "\\u2b50" * entry["star"] if entry["star"] else "-"
         lines.append(
-            f"| {entry['title']} | <img src=\"{cover_src}\" alt=\"{entry['title']}\" width=\"160\" /> | "
+            f"| {entry['title']} | {stars} | <img src=\"{cover_src}\" alt=\"{entry['title']}\" width=\"160\" /> | "
             f"[{entry['tag']}](./release-records/{entry['id']}.json) |"
         )
 
