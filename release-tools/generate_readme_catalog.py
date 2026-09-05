@@ -41,7 +41,7 @@ def main() -> None:
     for entry in entries:
         cover = entry["cover"]["path"] if entry["cover"] else f"{entry['folder']}/Example.png"
         cover_src = "./" + quote(cover, safe="/")
-        stars = "\\u2b50" * entry["star"] if entry["star"] else "-"
+        stars = chr(0x2B50) * entry["star"] if entry["star"] else "-"
         lines.append(
             f"| {entry['title']} | {stars} | <img src=\"{cover_src}\" alt=\"{entry['title']}\" width=\"160\" /> | "
             f"[{entry['tag']}](./release-records/{entry['id']}.json) |"
