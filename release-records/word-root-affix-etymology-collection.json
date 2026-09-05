@@ -1,0 +1,60 @@
+{
+  "id": "word-root-affix-etymology-collection",
+  "title": "词根词缀词源 （合集词典）",
+  "folder": "词根词缀词源 （合集词典）",
+  "folderPath": "词根词缀词源 （合集词典）",
+  "tag": "word-root-affix-etymology-collection",
+  "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/word-root-affix-etymology-collection",
+  "recordFile": "release-records/word-root-affix-etymology-collection.json",
+  "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/word-root-affix-etymology-collection.json",
+  "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/word-root-affix-etymology-collection.json",
+  "cover": {
+    "name": "Example.png",
+    "path": "词根词缀词源 （合集词典）/Example.png",
+    "extension": ".png",
+    "kind": "cover",
+    "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-etymology-collection/Example.png",
+    "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80%E8%AF%8D%E6%BA%90%20%EF%BC%88%E5%90%88%E9%9B%86%E8%AF%8D%E5%85%B8%EF%BC%89/Example.png",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80%E8%AF%8D%E6%BA%90%20%EF%BC%88%E5%90%88%E9%9B%86%E8%AF%8D%E5%85%B8%EF%BC%89/Example.png"
+  },
+  "assetCount": 4,
+  "trackedAssetCount": 3,
+  "releaseOnlyAssetCount": 1,
+  "assets": [
+    {
+      "name": "Example.png",
+      "path": "词根词缀词源 （合集词典）/Example.png",
+      "extension": ".png",
+      "kind": "cover",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-etymology-collection/Example.png",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80%E8%AF%8D%E6%BA%90%20%EF%BC%88%E5%90%88%E9%9B%86%E8%AF%8D%E5%85%B8%EF%BC%89/Example.png",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80%E8%AF%8D%E6%BA%90%20%EF%BC%88%E5%90%88%E9%9B%86%E8%AF%8D%E5%85%B8%EF%BC%89/Example.png"
+    },
+    {
+      "name": "Tarov.css",
+      "path": "词根词缀词源 （合集词典）/Tarov.css",
+      "extension": ".css",
+      "kind": "style",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-etymology-collection/Tarov.css",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80%E8%AF%8D%E6%BA%90%20%EF%BC%88%E5%90%88%E9%9B%86%E8%AF%8D%E5%85%B8%EF%BC%89/Tarov.css",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80%E8%AF%8D%E6%BA%90%20%EF%BC%88%E5%90%88%E9%9B%86%E8%AF%8D%E5%85%B8%EF%BC%89/Tarov.css"
+    },
+    {
+      "name": "Tarov.js",
+      "path": "词根词缀词源 （合集词典）/Tarov.js",
+      "extension": ".js",
+      "kind": "script",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-etymology-collection/Tarov.js",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80%E8%AF%8D%E6%BA%90%20%EF%BC%88%E5%90%88%E9%9B%86%E8%AF%8D%E5%85%B8%EF%BC%89/Tarov.js",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80%E8%AF%8D%E6%BA%90%20%EF%BC%88%E5%90%88%E9%9B%86%E8%AF%8D%E5%85%B8%EF%BC%89/Tarov.js"
+    },
+    {
+      "name": "The Affix Root of Vocabulary.mdx",
+      "path": "词根词缀词源 （合集词典）/The Affix Root of Vocabulary.mdx",
+      "extension": ".mdx",
+      "kind": "dictionary",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-etymology-collection/The%20Affix%20Root%20of%20Vocabulary.mdx"
+    }
+  ],
+  "published": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": "english-synonym-differentiation-v6",
+  "title": "英语近义词辨析v6",
+  "folder": "英语近义词辨析v6",
+  "folderPath": "英语近义词辨析v6",
+  "tag": "english-synonym-differentiation-v6",
+  "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/english-synonym-differentiation-v6",
+  "recordFile": "release-records/english-synonym-differentiation-v6.json",
+  "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/english-synonym-differentiation-v6.json",
+  "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/english-synonym-differentiation-v6.json",
+  "cover": {
+    "name": "Example.png",
+    "path": "英语近义词辨析v6/Example.png",
+    "extension": ".png",
+    "kind": "cover",
+    "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/english-synonym-differentiation-v6/Example.png",
+    "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E8%8B%B1%E8%AF%AD%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90v6/Example.png",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E8%8B%B1%E8%AF%AD%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90v6/Example.png"
+  },
+  "assetCount": 3,
+  "trackedAssetCount": 2,
+  "releaseOnlyAssetCount": 1,
+  "assets": [
+    {
+      "name": "Example.png",
+      "path": "英语近义词辨析v6/Example.png",
+      "extension": ".png",
+      "kind": "cover",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/english-synonym-differentiation-v6/Example.png",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E8%8B%B1%E8%AF%AD%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90v6/Example.png",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E8%8B%B1%E8%AF%AD%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90v6/Example.png"
+    },
+    {
+      "name": "英语近义词辨析.jpg",
+      "path": "英语近义词辨析v6/英语近义词辨析.jpg",
+      "extension": ".jpg",
+      "kind": "image",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/english-synonym-differentiation-v6/%E8%8B%B1%E8%AF%AD%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90.jpg",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E8%8B%B1%E8%AF%AD%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90v6/%E8%8B%B1%E8%AF%AD%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90.jpg",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E8%8B%B1%E8%AF%AD%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90v6/%E8%8B%B1%E8%AF%AD%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90.jpg"
+    },
+    {
+      "name": "英语近义词辨析.mdx",
+      "path": "英语近义词辨析v6/英语近义词辨析.mdx",
+      "extension": ".mdx",
+      "kind": "dictionary",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/english-synonym-differentiation-v6/%E8%8B%B1%E8%AF%AD%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90.mdx"
+    }
+  ],
+  "published": false
+}

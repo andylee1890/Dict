@@ -1,0 +1,51 @@
+{
+  "id": "concise-bing-css",
+  "title": "简明必应版-css",
+  "folder": "简明必应版-css",
+  "folderPath": "简明必应版-css",
+  "tag": "concise-bing-css",
+  "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/concise-bing-css",
+  "recordFile": "release-records/concise-bing-css.json",
+  "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/concise-bing-css.json",
+  "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/concise-bing-css.json",
+  "cover": {
+    "name": "Example.png",
+    "path": "简明必应版-css/Example.png",
+    "extension": ".png",
+    "kind": "cover",
+    "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/concise-bing-css/Example.png",
+    "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E7%AE%80%E6%98%8E%E5%BF%85%E5%BA%94%E7%89%88-css/Example.png",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E7%AE%80%E6%98%8E%E5%BF%85%E5%BA%94%E7%89%88-css/Example.png"
+  },
+  "assetCount": 3,
+  "trackedAssetCount": 2,
+  "releaseOnlyAssetCount": 1,
+  "assets": [
+    {
+      "name": "Example.png",
+      "path": "简明必应版-css/Example.png",
+      "extension": ".png",
+      "kind": "cover",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/concise-bing-css/Example.png",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E7%AE%80%E6%98%8E%E5%BF%85%E5%BA%94%E7%89%88-css/Example.png",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E7%AE%80%E6%98%8E%E5%BF%85%E5%BA%94%E7%89%88-css/Example.png"
+    },
+    {
+      "name": "concise-bing.css",
+      "path": "简明必应版-css/concise-bing.css",
+      "extension": ".css",
+      "kind": "style",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/concise-bing-css/concise-bing.css",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E7%AE%80%E6%98%8E%E5%BF%85%E5%BA%94%E7%89%88-css/concise-bing.css",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E7%AE%80%E6%98%8E%E5%BF%85%E5%BA%94%E7%89%88-css/concise-bing.css"
+    },
+    {
+      "name": "concise-bing.mdx",
+      "path": "简明必应版-css/concise-bing.mdx",
+      "extension": ".mdx",
+      "kind": "dictionary",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/concise-bing-css/concise-bing.mdx"
+    }
+  ],
+  "published": false
+}

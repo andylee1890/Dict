@@ -1,0 +1,94 @@
+{
+  "id": "ldoce6-en-cn-v3-0",
+  "title": "LDOCE6++ En-Cn V3-0",
+  "folder": "LDOCE6++ En-Cn V3-0",
+  "folderPath": "LDOCE6++ En-Cn V3-0",
+  "tag": "ldoce6-en-cn-v3-0",
+  "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/ldoce6-en-cn-v3-0",
+  "recordFile": "release-records/ldoce6-en-cn-v3-0.json",
+  "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/ldoce6-en-cn-v3-0.json",
+  "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/ldoce6-en-cn-v3-0.json",
+  "cover": {
+    "name": "Example.png",
+    "path": "LDOCE6++ En-Cn V3-0/Example.png",
+    "extension": ".png",
+    "kind": "cover",
+    "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/ldoce6-en-cn-v3-0/Example.png",
+    "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/LDOCE6%2B%2B%20En-Cn%20V3-0/Example.png",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/LDOCE6%2B%2B%20En-Cn%20V3-0/Example.png"
+  },
+  "assetCount": 8,
+  "trackedAssetCount": 6,
+  "releaseOnlyAssetCount": 2,
+  "assets": [
+    {
+      "name": "Example.png",
+      "path": "LDOCE6++ En-Cn V3-0/Example.png",
+      "extension": ".png",
+      "kind": "cover",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/ldoce6-en-cn-v3-0/Example.png",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/LDOCE6%2B%2B%20En-Cn%20V3-0/Example.png",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/LDOCE6%2B%2B%20En-Cn%20V3-0/Example.png"
+    },
+    {
+      "name": "b.png",
+      "path": "LDOCE6++ En-Cn V3-0/b.png",
+      "extension": ".png",
+      "kind": "image",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/ldoce6-en-cn-v3-0/b.png",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/LDOCE6%2B%2B%20En-Cn%20V3-0/b.png",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/LDOCE6%2B%2B%20En-Cn%20V3-0/b.png"
+    },
+    {
+      "name": "g.png",
+      "path": "LDOCE6++ En-Cn V3-0/g.png",
+      "extension": ".png",
+      "kind": "image",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/ldoce6-en-cn-v3-0/g.png",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/LDOCE6%2B%2B%20En-Cn%20V3-0/g.png",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/LDOCE6%2B%2B%20En-Cn%20V3-0/g.png"
+    },
+    {
+      "name": "LDOCE6++ En-Cn V3-0.mdd",
+      "path": "LDOCE6++ En-Cn V3-0/LDOCE6++ En-Cn V3-0.mdd",
+      "extension": ".mdd",
+      "kind": "resource",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/ldoce6-en-cn-v3-0/LDOCE6%2B%2B%20En-Cn%20V3-0.mdd"
+    },
+    {
+      "name": "LDOCE6++ En-Cn V3-0.mdx",
+      "path": "LDOCE6++ En-Cn V3-0/LDOCE6++ En-Cn V3-0.mdx",
+      "extension": ".mdx",
+      "kind": "dictionary",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/ldoce6-en-cn-v3-0/LDOCE6%2B%2B%20En-Cn%20V3-0.mdx"
+    },
+    {
+      "name": "ldoce6ec.css",
+      "path": "LDOCE6++ En-Cn V3-0/ldoce6ec.css",
+      "extension": ".css",
+      "kind": "style",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/ldoce6-en-cn-v3-0/ldoce6ec.css",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/LDOCE6%2B%2B%20En-Cn%20V3-0/ldoce6ec.css",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/LDOCE6%2B%2B%20En-Cn%20V3-0/ldoce6ec.css"
+    },
+    {
+      "name": "ldoce6ec.js",
+      "path": "LDOCE6++ En-Cn V3-0/ldoce6ec.js",
+      "extension": ".js",
+      "kind": "script",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/ldoce6-en-cn-v3-0/ldoce6ec.js",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/LDOCE6%2B%2B%20En-Cn%20V3-0/ldoce6ec.js",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/LDOCE6%2B%2B%20En-Cn%20V3-0/ldoce6ec.js"
+    },
+    {
+      "name": "r.png",
+      "path": "LDOCE6++ En-Cn V3-0/r.png",
+      "extension": ".png",
+      "kind": "image",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/ldoce6-en-cn-v3-0/r.png",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/LDOCE6%2B%2B%20En-Cn%20V3-0/r.png",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/LDOCE6%2B%2B%20En-Cn%20V3-0/r.png"
+    }
+  ],
+  "published": false
+}

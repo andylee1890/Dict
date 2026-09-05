@@ -1,0 +1,42 @@
+{
+  "id": "word-definition-ratio",
+  "title": "单词释义比例",
+  "folder": "单词释义比例",
+  "folderPath": "单词释义比例",
+  "tag": "word-definition-ratio",
+  "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/word-definition-ratio",
+  "recordFile": "release-records/word-definition-ratio.json",
+  "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/word-definition-ratio.json",
+  "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/word-definition-ratio.json",
+  "cover": {
+    "name": "Example.png",
+    "path": "单词释义比例/Example.png",
+    "extension": ".png",
+    "kind": "cover",
+    "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-definition-ratio/Example.png",
+    "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E5%8D%95%E8%AF%8D%E9%87%8A%E4%B9%89%E6%AF%94%E4%BE%8B/Example.png",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E5%8D%95%E8%AF%8D%E9%87%8A%E4%B9%89%E6%AF%94%E4%BE%8B/Example.png"
+  },
+  "assetCount": 2,
+  "trackedAssetCount": 1,
+  "releaseOnlyAssetCount": 1,
+  "assets": [
+    {
+      "name": "Example.png",
+      "path": "单词释义比例/Example.png",
+      "extension": ".png",
+      "kind": "cover",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-definition-ratio/Example.png",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E5%8D%95%E8%AF%8D%E9%87%8A%E4%B9%89%E6%AF%94%E4%BE%8B/Example.png",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E5%8D%95%E8%AF%8D%E9%87%8A%E4%B9%89%E6%AF%94%E4%BE%8B/Example.png"
+    },
+    {
+      "name": "单词释义比例词典-带词性.mdx",
+      "path": "单词释义比例/单词释义比例词典-带词性.mdx",
+      "extension": ".mdx",
+      "kind": "dictionary",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-definition-ratio/%E5%8D%95%E8%AF%8D%E9%87%8A%E4%B9%89%E6%AF%94%E4%BE%8B%E8%AF%8D%E5%85%B8-%E5%B8%A6%E8%AF%8D%E6%80%A7.mdx"
+    }
+  ],
+  "published": false
+}

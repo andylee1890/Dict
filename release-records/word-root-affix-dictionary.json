@@ -1,0 +1,42 @@
+{
+  "id": "word-root-affix-dictionary",
+  "title": "词根词缀词典",
+  "folder": "词根词缀词典",
+  "folderPath": "词根词缀词典",
+  "tag": "word-root-affix-dictionary",
+  "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/word-root-affix-dictionary",
+  "recordFile": "release-records/word-root-affix-dictionary.json",
+  "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/word-root-affix-dictionary.json",
+  "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/word-root-affix-dictionary.json",
+  "cover": {
+    "name": "Example.png",
+    "path": "词根词缀词典/Example.png",
+    "extension": ".png",
+    "kind": "cover",
+    "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-dictionary/Example.png",
+    "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80%E8%AF%8D%E5%85%B8/Example.png",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80%E8%AF%8D%E5%85%B8/Example.png"
+  },
+  "assetCount": 2,
+  "trackedAssetCount": 1,
+  "releaseOnlyAssetCount": 1,
+  "assets": [
+    {
+      "name": "Example.png",
+      "path": "词根词缀词典/Example.png",
+      "extension": ".png",
+      "kind": "cover",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-dictionary/Example.png",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80%E8%AF%8D%E5%85%B8/Example.png",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80%E8%AF%8D%E5%85%B8/Example.png"
+    },
+    {
+      "name": "[英-汉] 词根词缀词典(應网友要求)[12120](090528).mdx",
+      "path": "词根词缀词典/[英-汉] 词根词缀词典(應网友要求)[12120](090528).mdx",
+      "extension": ".mdx",
+      "kind": "dictionary",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-dictionary/%5B%E8%8B%B1-%E6%B1%89%5D%20%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80%E8%AF%8D%E5%85%B8%28%E6%87%89%E7%BD%91%E5%8F%8B%E8%A6%81%E6%B1%82%29%5B12120%5D%28090528%29.mdx"
+    }
+  ],
+  "published": false
+}

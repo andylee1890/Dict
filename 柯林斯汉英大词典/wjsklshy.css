@@ -1,0 +1,42 @@
+body {
+    counter-reset: ddcounter;
+}
+
+h3 {
+    margin-top: 6px;
+    margin-bottom: 1px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+p {
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+h3.entry_title {
+    font-size: 18px;
+    font-weight: 600;
+
+}
+
+dd {
+    margin-left: 0px;
+}
+
+dd h3 p::before {
+    counter-increment: ddcounter;
+    content: counter(ddcounter) '、';
+}
+
+
+dl > dt {
+    font-weight: 600;
+    font-size: 18px;
+    color: brown;
+}
+
+ul {
+    margin-top: 1px;
+    margin-bottom: 1px;
+}

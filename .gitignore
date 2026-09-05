@@ -1,0 +1,6 @@
+*.mdx
+*.mdd
+*.db
+*.bak
+__pycache__/
+*.pyc

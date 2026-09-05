@@ -1,0 +1,42 @@
+{
+  "id": "webster-advanced-english-chinese-dictionary",
+  "title": "韦氏高阶英汉双解词典",
+  "folder": "韦氏高阶英汉双解词典",
+  "folderPath": "韦氏高阶英汉双解词典",
+  "tag": "webster-advanced-english-chinese-dictionary",
+  "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/webster-advanced-english-chinese-dictionary",
+  "recordFile": "release-records/webster-advanced-english-chinese-dictionary.json",
+  "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/webster-advanced-english-chinese-dictionary.json",
+  "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/webster-advanced-english-chinese-dictionary.json",
+  "cover": {
+    "name": "Example.png",
+    "path": "韦氏高阶英汉双解词典/Example.png",
+    "extension": ".png",
+    "kind": "cover",
+    "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/webster-advanced-english-chinese-dictionary/Example.png",
+    "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E9%9F%A6%E6%B0%8F%E9%AB%98%E9%98%B6%E8%8B%B1%E6%B1%89%E5%8F%8C%E8%A7%A3%E8%AF%8D%E5%85%B8/Example.png",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E9%9F%A6%E6%B0%8F%E9%AB%98%E9%98%B6%E8%8B%B1%E6%B1%89%E5%8F%8C%E8%A7%A3%E8%AF%8D%E5%85%B8/Example.png"
+  },
+  "assetCount": 2,
+  "trackedAssetCount": 1,
+  "releaseOnlyAssetCount": 1,
+  "assets": [
+    {
+      "name": "Example.png",
+      "path": "韦氏高阶英汉双解词典/Example.png",
+      "extension": ".png",
+      "kind": "cover",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/webster-advanced-english-chinese-dictionary/Example.png",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E9%9F%A6%E6%B0%8F%E9%AB%98%E9%98%B6%E8%8B%B1%E6%B1%89%E5%8F%8C%E8%A7%A3%E8%AF%8D%E5%85%B8/Example.png",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E9%9F%A6%E6%B0%8F%E9%AB%98%E9%98%B6%E8%8B%B1%E6%B1%89%E5%8F%8C%E8%A7%A3%E8%AF%8D%E5%85%B8/Example.png"
+    },
+    {
+      "name": "韦氏高阶英汉双解词典.mdx",
+      "path": "韦氏高阶英汉双解词典/韦氏高阶英汉双解词典.mdx",
+      "extension": ".mdx",
+      "kind": "dictionary",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/webster-advanced-english-chinese-dictionary/%E9%9F%A6%E6%B0%8F%E9%AB%98%E9%98%B6%E8%8B%B1%E6%B1%89%E5%8F%8C%E8%A7%A3%E8%AF%8D%E5%85%B8.mdx"
+    }
+  ],
+  "published": false
+}

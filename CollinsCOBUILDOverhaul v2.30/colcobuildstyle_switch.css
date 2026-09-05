@@ -1,0 +1,45 @@
+/* .collins_en_cn li p:last-child, .vExplain_r li p:last-child, .explain_r li p:last-child, .explain_c li p:last-child {
+    display:none;
+}
+*/
+.def_cn, .example li p:last-child
+, a.jump .chinese-text, h3 > a > .chinese-text
+, .tips_box .chinese-text{
+ 	display:none;
+}
+
+.hide_cn, .example li {
+ 	cursor:pointer;
+ 	-webkit-user-select: none; 	/* Chrome, Opera, Safari */
+    -moz-user-select: none; 	/* Firefox 2+ */
+    -ms-user-select: none; 		/* IE 10+ */
+    user-select: none; 			/* Standard syntax */
+}
+
+.example:not(.no-before) li:before {
+ 	content: '+';
+ 	position: absolute;
+ 	left: 15px;
+}
+
+.show_cn, .example li.show_cn {
+	cursor:auto;
+	-webkit-user-select: auto; 	/* Chrome, Opera, Safari */
+    -moz-user-select: auto; 	/* Firefox 2+ */
+    -ms-user-select: auto; 		/* IE 10+ */
+    user-select: auto; 			/* Standard syntax */
+}
+
+.example:not(.no-before) li.show_cn:before{
+    content: '•';
+    position: absolute;
+    left: 15px;
+}
+
+.show_cn .def_cn:not(.cn_before) {
+    display: inline;
+    color: #fff;
+    background:#0088DD;
+    border-radius: 3px;
+    font-size: 85%;
+}

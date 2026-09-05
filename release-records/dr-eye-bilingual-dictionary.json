@@ -1,0 +1,51 @@
+{
+  "id": "dr-eye-bilingual-dictionary",
+  "title": "译典通英汉双向字典",
+  "folder": "译典通英汉双向字典",
+  "folderPath": "译典通英汉双向字典",
+  "tag": "dr-eye-bilingual-dictionary",
+  "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/dr-eye-bilingual-dictionary",
+  "recordFile": "release-records/dr-eye-bilingual-dictionary.json",
+  "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/dr-eye-bilingual-dictionary.json",
+  "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/dr-eye-bilingual-dictionary.json",
+  "cover": {
+    "name": "Example.png",
+    "path": "译典通英汉双向字典/Example.png",
+    "extension": ".png",
+    "kind": "cover",
+    "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/dr-eye-bilingual-dictionary/Example.png",
+    "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E8%AF%91%E5%85%B8%E9%80%9A%E8%8B%B1%E6%B1%89%E5%8F%8C%E5%90%91%E5%AD%97%E5%85%B8/Example.png",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E8%AF%91%E5%85%B8%E9%80%9A%E8%8B%B1%E6%B1%89%E5%8F%8C%E5%90%91%E5%AD%97%E5%85%B8/Example.png"
+  },
+  "assetCount": 3,
+  "trackedAssetCount": 2,
+  "releaseOnlyAssetCount": 1,
+  "assets": [
+    {
+      "name": "Example.png",
+      "path": "译典通英汉双向字典/Example.png",
+      "extension": ".png",
+      "kind": "cover",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/dr-eye-bilingual-dictionary/Example.png",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E8%AF%91%E5%85%B8%E9%80%9A%E8%8B%B1%E6%B1%89%E5%8F%8C%E5%90%91%E5%AD%97%E5%85%B8/Example.png",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E8%AF%91%E5%85%B8%E9%80%9A%E8%8B%B1%E6%B1%89%E5%8F%8C%E5%90%91%E5%AD%97%E5%85%B8/Example.png"
+    },
+    {
+      "name": "Dr.eye.css",
+      "path": "译典通英汉双向字典/Dr.eye.css",
+      "extension": ".css",
+      "kind": "style",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/dr-eye-bilingual-dictionary/Dr.eye.css",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E8%AF%91%E5%85%B8%E9%80%9A%E8%8B%B1%E6%B1%89%E5%8F%8C%E5%90%91%E5%AD%97%E5%85%B8/Dr.eye.css",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E8%AF%91%E5%85%B8%E9%80%9A%E8%8B%B1%E6%B1%89%E5%8F%8C%E5%90%91%E5%AD%97%E5%85%B8/Dr.eye.css"
+    },
+    {
+      "name": "译典通英汉双向字典.mdx",
+      "path": "译典通英汉双向字典/译典通英汉双向字典.mdx",
+      "extension": ".mdx",
+      "kind": "dictionary",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/dr-eye-bilingual-dictionary/%E8%AF%91%E5%85%B8%E9%80%9A%E8%8B%B1%E6%B1%89%E5%8F%8C%E5%90%91%E5%AD%97%E5%85%B8.mdx"
+    }
+  ],
+  "published": false
+}

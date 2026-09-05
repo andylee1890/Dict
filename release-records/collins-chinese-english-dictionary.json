@@ -1,0 +1,34 @@
+{
+  "id": "collins-chinese-english-dictionary",
+  "title": "柯林斯汉英大词典",
+  "folder": "柯林斯汉英大词典",
+  "folderPath": "柯林斯汉英大词典",
+  "tag": "collins-chinese-english-dictionary",
+  "releaseUrl": "https://github.com/andylee1890/Dict/releases/tag/collins-chinese-english-dictionary",
+  "recordFile": "release-records/collins-chinese-english-dictionary.json",
+  "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/collins-chinese-english-dictionary.json",
+  "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/collins-chinese-english-dictionary.json",
+  "cover": null,
+  "assetCount": 2,
+  "trackedAssetCount": 1,
+  "releaseOnlyAssetCount": 1,
+  "assets": [
+    {
+      "name": "wjsklshy.css",
+      "path": "柯林斯汉英大词典/wjsklshy.css",
+      "extension": ".css",
+      "kind": "style",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-chinese-english-dictionary/wjsklshy.css",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E6%9F%AF%E6%9E%97%E6%96%AF%E6%B1%89%E8%8B%B1%E5%A4%A7%E8%AF%8D%E5%85%B8/wjsklshy.css",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E6%9F%AF%E6%9E%97%E6%96%AF%E6%B1%89%E8%8B%B1%E5%A4%A7%E8%AF%8D%E5%85%B8/wjsklshy.css"
+    },
+    {
+      "name": "柯林斯汉英大词典.mdx",
+      "path": "柯林斯汉英大词典/柯林斯汉英大词典.mdx",
+      "extension": ".mdx",
+      "kind": "dictionary",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-chinese-english-dictionary/%E6%9F%AF%E6%9E%97%E6%96%AF%E6%B1%89%E8%8B%B1%E5%A4%A7%E8%AF%8D%E5%85%B8.mdx"
+    }
+  ],
+  "published": false
+}
