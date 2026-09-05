@@ -17,8 +17,8 @@
     "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/CollinsCOBUILDOverhaul%20v2.30/Example.png",
     "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/CollinsCOBUILDOverhaul%20v2.30/Example.png"
   },
-  "assetCount": 10,
-  "trackedAssetCount": 9,
+  "assetCount": 9,
+  "trackedAssetCount": 8,
   "releaseOnlyAssetCount": 1,
   "assets": [
     {
@@ -29,15 +29,6 @@
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-cobuild-overhaul-v2-30/Example.png",
       "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/CollinsCOBUILDOverhaul%20v2.30/Example.png",
       "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/CollinsCOBUILDOverhaul%20v2.30/Example.png"
-    },
-    {
-      "name": "colcobuildoverhaul_config.ini",
-      "path": "CollinsCOBUILDOverhaul v2.30/colcobuildoverhaul_config.ini",
-      "extension": ".ini",
-      "kind": "config",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-cobuild-overhaul-v2-30/colcobuildoverhaul_config.ini",
-      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/CollinsCOBUILDOverhaul%20v2.30/colcobuildoverhaul_config.ini",
-      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/CollinsCOBUILDOverhaul%20v2.30/colcobuildoverhaul_config.ini"
     },
     {
       "name": "colcobuildoverhaul_switch的副本.js",
@@ -110,5 +101,5 @@
       "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/CollinsCOBUILDOverhaul%20v2.30/%E6%9F%AF%E6%9E%97%E6%96%AF%E8%8B%B1%E8%8B%B1%E9%A2%84%E8%A7%88%E5%9B%BE.PNG"
     }
   ],
-  "published": false
+  "published": true
 }

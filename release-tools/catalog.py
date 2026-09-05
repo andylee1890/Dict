@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCE_ROOT = ROOT
 RECORDS_DIR = ROOT / "release-records"
 
-IGNORED_EXTENSIONS = {".db", ".bak"}
+IGNORED_EXTENSIONS = {".db", ".bak", ".ini"}
 RELEASE_ONLY_EXTENSIONS = {".mdx", ".mdd"}
 
 RELEASE_ORDER = [
@@ -54,7 +54,10 @@ RELEASE_TAGS = {
     "韦氏高阶英汉双解词典": "webster-advanced-english-chinese-dictionary",
 }
 
-TRACKED_EXTENSIONS = {".css", ".js", ".png", ".jpg", ".jpeg", ".ini", ".gif", ".webp"}
+PUBLISHED_RELEASES = {
+    "collins-cobuild-overhaul-v2-30",
+}
+
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".webp"}
 
 
@@ -165,7 +168,7 @@ def build_entry(folder: Path) -> dict:
         "trackedAssetCount": len(tracked_assets),
         "releaseOnlyAssetCount": len(release_only_assets),
         "assets": assets,
-        "published": False,
+        "published": tag in PUBLISHED_RELEASES,
     }
 
 

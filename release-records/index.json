@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T08:29:34.598482Z",
+  "generatedAt": "2026-09-05T09:38:08.565944Z",
   "repository": "andylee1890/Dict",
   "branch": "main",
   "downloads": "https://downloads.freemdict.com/",
@@ -33,10 +33,10 @@
         "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/CollinsCOBUILDOverhaul%20v2.30/Example.png",
         "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/CollinsCOBUILDOverhaul%20v2.30/Example.png"
       },
-      "assetCount": 10,
-      "trackedAssetCount": 9,
+      "assetCount": 9,
+      "trackedAssetCount": 8,
       "releaseOnlyAssetCount": 1,
-      "published": false
+      "published": true
     },
     {
       "id": "ldoce6-en-cn-v3-0",
@@ -157,8 +157,8 @@
         "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E7%89%9B%E6%B4%A5%E9%AB%98%E9%98%B6%E5%8F%8C%E8%A7%A38-oalecd8e/Example.png",
         "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E7%89%9B%E6%B4%A5%E9%AB%98%E9%98%B6%E5%8F%8C%E8%A7%A38-oalecd8e/Example.png"
       },
-      "assetCount": 9,
-      "trackedAssetCount": 6,
+      "assetCount": 8,
+      "trackedAssetCount": 5,
       "releaseOnlyAssetCount": 3,
       "published": false
     },

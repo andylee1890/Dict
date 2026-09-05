@@ -17,8 +17,8 @@
     "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E7%89%9B%E6%B4%A5%E9%AB%98%E9%98%B6%E5%8F%8C%E8%A7%A38-oalecd8e/Example.png",
     "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E7%89%9B%E6%B4%A5%E9%AB%98%E9%98%B6%E5%8F%8C%E8%A7%A38-oalecd8e/Example.png"
   },
-  "assetCount": 9,
-  "trackedAssetCount": 6,
+  "assetCount": 8,
+  "trackedAssetCount": 5,
   "releaseOnlyAssetCount": 3,
   "assets": [
     {
@@ -38,15 +38,6 @@
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/oxford-advanced-learner-dictionary-8-oalecd8e/oalecd8e.css",
       "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E7%89%9B%E6%B4%A5%E9%AB%98%E9%98%B6%E5%8F%8C%E8%A7%A38-oalecd8e/oalecd8e.css",
       "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E7%89%9B%E6%B4%A5%E9%AB%98%E9%98%B6%E5%8F%8C%E8%A7%A38-oalecd8e/oalecd8e.css"
-    },
-    {
-      "name": "oalecd8e.ini",
-      "path": "牛津高阶双解8-oalecd8e/oalecd8e.ini",
-      "extension": ".ini",
-      "kind": "config",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/oxford-advanced-learner-dictionary-8-oalecd8e/oalecd8e.ini",
-      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E7%89%9B%E6%B4%A5%E9%AB%98%E9%98%B6%E5%8F%8C%E8%A7%A38-oalecd8e/oalecd8e.ini",
-      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E7%89%9B%E6%B4%A5%E9%AB%98%E9%98%B6%E5%8F%8C%E8%A7%A38-oalecd8e/oalecd8e.ini"
     },
     {
       "name": "牛津高阶双解8双解预览图.PNG",
