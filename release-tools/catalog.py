@@ -58,6 +58,7 @@ PUBLISHED_RELEASES = {
     "collins-cobuild-overhaul-v2-30",
     "new-concept-english-sentence-dictionary",
     "word-definition-ratio",
+    "word-root-affix-dictionary",
 }
 
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".webp"}

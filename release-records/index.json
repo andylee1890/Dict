@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T12:02:38.642104Z",
+  "generatedAt": "2026-09-05T12:05:56.475110Z",
   "repository": "andylee1890/Dict",
   "branch": "main",
   "downloads": "https://downloads.freemdict.com/",
@@ -258,7 +258,7 @@
       "assetCount": 2,
       "trackedAssetCount": 1,
       "releaseOnlyAssetCount": 1,
-      "published": false
+      "published": true
     },
     {
       "id": "word-root-affix-etymology-collection",
