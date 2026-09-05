@@ -37,11 +37,11 @@
     },
     {
       "name": "colcobuildoverhaul_switch的副本.js",
-      "releaseName": "colcobuildoverhaul_switch的副本.js",
+      "releaseName": "colcobuildoverhaul_switch.js",
       "path": "CollinsCOBUILDOverhaul v2.30/colcobuildoverhaul_switch的副本.js",
       "extension": ".js",
       "kind": "script",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-cobuild-overhaul-v2-30/colcobuildoverhaul_switch%E7%9A%84%E5%89%AF%E6%9C%AC.js",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-cobuild-overhaul-v2-30/colcobuildoverhaul_switch.js",
       "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/CollinsCOBUILDOverhaul%20v2.30/colcobuildoverhaul_switch%E7%9A%84%E5%89%AF%E6%9C%AC.js",
       "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/CollinsCOBUILDOverhaul%20v2.30/colcobuildoverhaul_switch%E7%9A%84%E5%89%AF%E6%9C%AC.js"
     },
@@ -77,39 +77,39 @@
     },
     {
       "name": "CollinsCOBUILDOverhaul V 2-30.mdx",
-      "releaseName": "CollinsCOBUILDOverhaul V 2-30.mdx",
+      "releaseName": "collins-cobuild-overhaul-v2-30.mdx",
       "path": "CollinsCOBUILDOverhaul v2.30/CollinsCOBUILDOverhaul V 2-30.mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-cobuild-overhaul-v2-30/CollinsCOBUILDOverhaul%20V%202-30.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-cobuild-overhaul-v2-30/collins-cobuild-overhaul-v2-30.mdx"
     },
     {
       "name": "CollinsCOBUILDOverhaul V 2-30.png",
-      "releaseName": "CollinsCOBUILDOverhaul V 2-30.png",
+      "releaseName": "CollinsCOBUILDOverhaul.V.2-30.png",
       "path": "CollinsCOBUILDOverhaul v2.30/CollinsCOBUILDOverhaul V 2-30.png",
       "extension": ".png",
       "kind": "image",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-cobuild-overhaul-v2-30/CollinsCOBUILDOverhaul%20V%202-30.png",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-cobuild-overhaul-v2-30/CollinsCOBUILDOverhaul.V.2-30.png",
       "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/CollinsCOBUILDOverhaul%20v2.30/CollinsCOBUILDOverhaul%20V%202-30.png",
       "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/CollinsCOBUILDOverhaul%20v2.30/CollinsCOBUILDOverhaul%20V%202-30.png"
     },
     {
       "name": "柯林斯双解预览图.PNG",
-      "releaseName": "柯林斯双解预览图.PNG",
+      "releaseName": "default.PNG",
       "path": "CollinsCOBUILDOverhaul v2.30/柯林斯双解预览图.PNG",
       "extension": ".png",
       "kind": "image",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-cobuild-overhaul-v2-30/%E6%9F%AF%E6%9E%97%E6%96%AF%E5%8F%8C%E8%A7%A3%E9%A2%84%E8%A7%88%E5%9B%BE.PNG",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-cobuild-overhaul-v2-30/default.PNG",
       "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/CollinsCOBUILDOverhaul%20v2.30/%E6%9F%AF%E6%9E%97%E6%96%AF%E5%8F%8C%E8%A7%A3%E9%A2%84%E8%A7%88%E5%9B%BE.PNG",
       "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/CollinsCOBUILDOverhaul%20v2.30/%E6%9F%AF%E6%9E%97%E6%96%AF%E5%8F%8C%E8%A7%A3%E9%A2%84%E8%A7%88%E5%9B%BE.PNG"
     },
     {
       "name": "柯林斯英英预览图.PNG",
-      "releaseName": "柯林斯英英预览图.PNG",
+      "releaseName": "-2.PNG",
       "path": "CollinsCOBUILDOverhaul v2.30/柯林斯英英预览图.PNG",
       "extension": ".png",
       "kind": "image",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-cobuild-overhaul-v2-30/%E6%9F%AF%E6%9E%97%E6%96%AF%E8%8B%B1%E8%8B%B1%E9%A2%84%E8%A7%88%E5%9B%BE.PNG",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-cobuild-overhaul-v2-30/-2.PNG",
       "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/CollinsCOBUILDOverhaul%20v2.30/%E6%9F%AF%E6%9E%97%E6%96%AF%E8%8B%B1%E8%8B%B1%E9%A2%84%E8%A7%88%E5%9B%BE.PNG",
       "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/CollinsCOBUILDOverhaul%20v2.30/%E6%9F%AF%E6%9E%97%E6%96%AF%E8%8B%B1%E8%8B%B1%E9%A2%84%E8%A7%88%E5%9B%BE.PNG"
     }

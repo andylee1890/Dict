@@ -37,11 +37,11 @@
     },
     {
       "name": "单词释义比例词典-带词性.mdx",
-      "releaseName": "单词释义比例词典-带词性.mdx",
+      "releaseName": "word-definition-ratio.mdx",
       "path": "单词释义比例/单词释义比例词典-带词性.mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-definition-ratio/%E5%8D%95%E8%AF%8D%E9%87%8A%E4%B9%89%E6%AF%94%E4%BE%8B%E8%AF%8D%E5%85%B8-%E5%B8%A6%E8%AF%8D%E6%80%A7.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-definition-ratio/word-definition-ratio.mdx"
     }
   ],
   "published": true
