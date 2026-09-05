@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T12:11:12.684930Z",
+  "generatedAt": "2026-09-05T12:16:58.323608Z",
   "repository": "andylee1890/Dict",
   "branch": "main",
   "downloads": "https://downloads.freemdict.com/",
@@ -235,7 +235,7 @@
       "assetCount": 3,
       "trackedAssetCount": 2,
       "releaseOnlyAssetCount": 1,
-      "published": false
+      "published": true
     },
     {
       "id": "word-root-affix-dictionary",

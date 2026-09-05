@@ -34,11 +34,11 @@
     },
     {
       "name": "英语近义词辨析.jpg",
-      "releaseName": "英语近义词辨析.jpg",
+      "releaseName": "english-synonym-differentiation-v6.jpg",
       "path": "英语近义词辨析v6/英语近义词辨析.jpg",
       "extension": ".jpg",
       "kind": "image",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/english-synonym-differentiation-v6/%E8%8B%B1%E8%AF%AD%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90.jpg",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/english-synonym-differentiation-v6/english-synonym-differentiation-v6.jpg",
       "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E8%8B%B1%E8%AF%AD%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90v6/%E8%8B%B1%E8%AF%AD%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90.jpg",
       "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E8%8B%B1%E8%AF%AD%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90v6/%E8%8B%B1%E8%AF%AD%E8%BF%91%E4%B9%89%E8%AF%8D%E8%BE%A8%E6%9E%90.jpg"
     },
@@ -51,5 +51,5 @@
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/english-synonym-differentiation-v6/english-synonym-differentiation-v6.mdx"
     }
   ],
-  "published": false
+  "published": true
 }

@@ -60,12 +60,15 @@ PUBLISHED_RELEASES = {
     "synonym-differentiation",
     "word-definition-ratio",
     "word-root-affix-dictionary",
+    "english-synonym-differentiation-v6",
 }
 
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".webp"}
 
 RELEASE_ASSET_NAMES = {
     ("new-concept-english-sentence-dictionary", "[英-汉] 《新概念英語句典》[5486](090523).mdx"): "new-concept-english-sentence-dictionary.mdx",
+    ("english-synonym-differentiation-v6", "英语近义词辨析.jpg"): "english-synonym-differentiation-v6.jpg",
+    ("english-synonym-differentiation-v6", "英语近义词辨析.mdx"): "english-synonym-differentiation-v6.mdx",
 }
 
 
