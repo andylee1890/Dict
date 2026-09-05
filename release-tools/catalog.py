@@ -70,6 +70,12 @@ RELEASE_ASSET_NAMES = {
     ("new-concept-english-sentence-dictionary", "[英-汉] 《新概念英語句典》[5486](090523).mdx"): "new-concept-english-sentence-dictionary.mdx",
     ("english-synonym-differentiation-v6", "英语近义词辨析.jpg"): "english-synonym-differentiation-v6.jpg",
     ("english-synonym-differentiation-v6", "英语近义词辨析.mdx"): "english-synonym-differentiation-v6.mdx",
+    ("ldoce6-en-cn-v3-0", "LDOCE6++ En-Cn V3-0.mdx"): "LDOCE6++.En-Cn.V3-0.mdx",
+    ("word-root-affix-frequency-etymology", "优词英语词源词典 (aepicure on 六月的风8, 2016-09-09) 紧凑版.mdd"): "word-root-affix-frequency-etymology.mdd",
+    ("word-root-affix-frequency-etymology", "优词英语词源词典 (aepicure on 六月的风8, 2016-09-09) 紧凑版.mdx"): "word-root-affix-frequency-etymology-1.mdx",
+    ("word-root-affix-frequency-etymology", "李平武+蒋真 词根 (7291).mdx"): "word-root-affix-frequency-etymology-2.mdx",
+    ("word-root-affix-frequency-etymology", "童哥词根(23528).mdx"): "word-root-affix-frequency-etymology-3.mdx",
+    ("word-root-affix-frequency-etymology", "英语词根词缀词频.mdx"): "word-root-affix-frequency-etymology-4.mdx",
 }
 
 
