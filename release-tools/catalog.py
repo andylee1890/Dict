@@ -101,6 +101,24 @@ def is_tracked(path: Path) -> bool:
     return path.suffix.lower() not in IGNORED_EXTENSIONS and path.suffix.lower() not in RELEASE_ONLY_EXTENSIONS
 
 
+def resolve_release_asset_name(path: Path, tag: str, ext_indexes: dict[str, int], ext_totals: dict[str, int]) -> str:
+    explicit_name = RELEASE_ASSET_NAMES.get((tag, path.name))
+    if explicit_name:
+        return explicit_name
+
+    ext = path.suffix.lower()
+    if ext not in RELEASE_ONLY_EXTENSIONS:
+        return path.name
+
+    if tag in PUBLISHED_RELEASES:
+        return path.name
+
+    ext_indexes[ext] = ext_indexes.get(ext, 0) + 1
+    if ext_totals.get(ext, 0) == 1:
+        return f"{tag}{ext}"
+    return f"{tag}-{ext_indexes[ext]}{ext}"
+
+
 def classify_asset(path: Path) -> str:
     ext = path.suffix.lower()
     if path.stem == "Example" and ext in IMAGE_EXTENSIONS:
@@ -131,14 +149,26 @@ def list_release_entries() -> list[Path]:
 
 def build_assets(folder: Path, tag: str) -> list[dict]:
     assets: list[dict] = []
-    for path in sorted(folder.iterdir(), key=lambda p: (p.name.lower() != "example.png", p.name.lower())):
+    files = [
+        path
+        for path in sorted(folder.iterdir(), key=lambda p: (p.name.lower() != "example.png", p.name.lower()))
+        if path.is_file() and path.suffix.lower() not in IGNORED_EXTENSIONS
+    ]
+    ext_totals: dict[str, int] = {}
+    for path in files:
+        ext = path.suffix.lower()
+        if ext in RELEASE_ONLY_EXTENSIONS:
+            ext_totals[ext] = ext_totals.get(ext, 0) + 1
+
+    ext_indexes: dict[str, int] = {}
+    for path in files:
         if not path.is_file():
             continue
         ext = path.suffix.lower()
         if ext in IGNORED_EXTENSIONS:
             continue
         rel_path = f"{folder.name}/{path.name}"
-        release_asset_name = RELEASE_ASSET_NAMES.get((tag, path.name), path.name)
+        release_asset_name = resolve_release_asset_name(path, tag, ext_indexes, ext_totals)
         asset = {
             "name": path.name,
             "releaseName": release_asset_name,

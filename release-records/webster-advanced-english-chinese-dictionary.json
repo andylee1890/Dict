@@ -34,11 +34,11 @@
     },
     {
       "name": "韦氏高阶英汉双解词典.mdx",
-      "releaseName": "韦氏高阶英汉双解词典.mdx",
+      "releaseName": "webster-advanced-english-chinese-dictionary.mdx",
       "path": "韦氏高阶英汉双解词典/韦氏高阶英汉双解词典.mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/webster-advanced-english-chinese-dictionary/%E9%9F%A6%E6%B0%8F%E9%AB%98%E9%98%B6%E8%8B%B1%E6%B1%89%E5%8F%8C%E8%A7%A3%E8%AF%8D%E5%85%B8.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/webster-advanced-english-chinese-dictionary/webster-advanced-english-chinese-dictionary.mdx"
     }
   ],
   "published": false

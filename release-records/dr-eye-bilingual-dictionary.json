@@ -44,11 +44,11 @@
     },
     {
       "name": "译典通英汉双向字典.mdx",
-      "releaseName": "译典通英汉双向字典.mdx",
+      "releaseName": "dr-eye-bilingual-dictionary.mdx",
       "path": "译典通英汉双向字典/译典通英汉双向字典.mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/dr-eye-bilingual-dictionary/%E8%AF%91%E5%85%B8%E9%80%9A%E8%8B%B1%E6%B1%89%E5%8F%8C%E5%90%91%E5%AD%97%E5%85%B8.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/dr-eye-bilingual-dictionary/dr-eye-bilingual-dictionary.mdx"
     }
   ],
   "published": false

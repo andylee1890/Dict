@@ -25,11 +25,11 @@
     },
     {
       "name": "柯林斯汉英大词典.mdx",
-      "releaseName": "柯林斯汉英大词典.mdx",
+      "releaseName": "collins-chinese-english-dictionary.mdx",
       "path": "柯林斯汉英大词典/柯林斯汉英大词典.mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-chinese-english-dictionary/%E6%9F%AF%E6%9E%97%E6%96%AF%E6%B1%89%E8%8B%B1%E5%A4%A7%E8%AF%8D%E5%85%B8.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-chinese-english-dictionary/collins-chinese-english-dictionary.mdx"
     }
   ],
   "published": false
