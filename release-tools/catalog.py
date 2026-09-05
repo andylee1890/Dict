@@ -57,6 +57,7 @@ RELEASE_TAGS = {
 PUBLISHED_RELEASES = {
     "collins-cobuild-overhaul-v2-30",
     "new-concept-english-sentence-dictionary",
+    "synonym-differentiation",
     "word-definition-ratio",
     "word-root-affix-dictionary",
 }

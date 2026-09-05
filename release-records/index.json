@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T12:05:56.475110Z",
+  "generatedAt": "2026-09-05T12:11:12.684930Z",
   "repository": "andylee1890/Dict",
   "branch": "main",
   "downloads": "https://downloads.freemdict.com/",
@@ -350,7 +350,7 @@
       "assetCount": 3,
       "trackedAssetCount": 2,
       "releaseOnlyAssetCount": 1,
-      "published": false
+      "published": true
     },
     {
       "id": "webster-advanced-english-chinese-dictionary",

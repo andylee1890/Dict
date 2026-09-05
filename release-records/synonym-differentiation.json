@@ -44,12 +44,12 @@
     },
     {
       "name": "近义词词语辨析.mdx",
-      "releaseName": "synonym-differentiation.mdx",
+      "releaseName": "近义词词语辨析.mdx",
       "path": "近义词词语辨析/近义词词语辨析.mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/synonym-differentiation/synonym-differentiation.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/synonym-differentiation/%E8%BF%91%E4%B9%89%E8%AF%8D%E8%AF%8D%E8%AF%AD%E8%BE%A8%E6%9E%90.mdx"
     }
   ],
-  "published": false
+  "published": true
 }
