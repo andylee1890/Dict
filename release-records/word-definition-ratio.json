@@ -10,6 +10,7 @@
   "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/word-definition-ratio.json",
   "cover": {
     "name": "Example.png",
+    "releaseName": "Example.png",
     "path": "单词释义比例/Example.png",
     "extension": ".png",
     "kind": "cover",
@@ -23,6 +24,7 @@
   "assets": [
     {
       "name": "Example.png",
+      "releaseName": "Example.png",
       "path": "单词释义比例/Example.png",
       "extension": ".png",
       "kind": "cover",
@@ -32,6 +34,7 @@
     },
     {
       "name": "单词释义比例词典-带词性.mdx",
+      "releaseName": "单词释义比例词典-带词性.mdx",
       "path": "单词释义比例/单词释义比例词典-带词性.mdx",
       "extension": ".mdx",
       "kind": "dictionary",

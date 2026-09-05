@@ -10,6 +10,7 @@
   "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/dr-eye-bilingual-dictionary.json",
   "cover": {
     "name": "Example.png",
+    "releaseName": "Example.png",
     "path": "译典通英汉双向字典/Example.png",
     "extension": ".png",
     "kind": "cover",
@@ -23,6 +24,7 @@
   "assets": [
     {
       "name": "Example.png",
+      "releaseName": "Example.png",
       "path": "译典通英汉双向字典/Example.png",
       "extension": ".png",
       "kind": "cover",
@@ -32,6 +34,7 @@
     },
     {
       "name": "Dr.eye.css",
+      "releaseName": "Dr.eye.css",
       "path": "译典通英汉双向字典/Dr.eye.css",
       "extension": ".css",
       "kind": "style",
@@ -41,6 +44,7 @@
     },
     {
       "name": "译典通英汉双向字典.mdx",
+      "releaseName": "译典通英汉双向字典.mdx",
       "path": "译典通英汉双向字典/译典通英汉双向字典.mdx",
       "extension": ".mdx",
       "kind": "dictionary",

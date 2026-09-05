@@ -10,6 +10,7 @@
   "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/longman-reverse-dictionary.json",
   "cover": {
     "name": "Example.png",
+    "releaseName": "Example.png",
     "path": "朗文当代反查词典/Example.png",
     "extension": ".png",
     "kind": "cover",
@@ -23,6 +24,7 @@
   "assets": [
     {
       "name": "Example.png",
+      "releaseName": "Example.png",
       "path": "朗文当代反查词典/Example.png",
       "extension": ".png",
       "kind": "cover",
@@ -32,6 +34,7 @@
     },
     {
       "name": "hytycfc.css",
+      "releaseName": "hytycfc.css",
       "path": "朗文当代反查词典/hytycfc.css",
       "extension": ".css",
       "kind": "style",
@@ -41,6 +44,7 @@
     },
     {
       "name": "朗文当代高级英语辞典（第5版 汉英+同义词+例句反查）.jpg",
+      "releaseName": "朗文当代高级英语辞典（第5版 汉英+同义词+例句反查）.jpg",
       "path": "朗文当代反查词典/朗文当代高级英语辞典（第5版 汉英+同义词+例句反查）.jpg",
       "extension": ".jpg",
       "kind": "image",
@@ -50,6 +54,7 @@
     },
     {
       "name": "朗文当代高级英语辞典（第5版 汉英+同义词+例句反查）.mdx",
+      "releaseName": "朗文当代高级英语辞典（第5版 汉英+同义词+例句反查）.mdx",
       "path": "朗文当代反查词典/朗文当代高级英语辞典（第5版 汉英+同义词+例句反查）.mdx",
       "extension": ".mdx",
       "kind": "dictionary",

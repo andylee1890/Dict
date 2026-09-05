@@ -10,6 +10,7 @@
   "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/oxford-advanced-learner-dictionary-8-oalecd8e.json",
   "cover": {
     "name": "Example.png",
+    "releaseName": "Example.png",
     "path": "牛津高阶双解8-oalecd8e/Example.png",
     "extension": ".png",
     "kind": "cover",
@@ -23,6 +24,7 @@
   "assets": [
     {
       "name": "Example.png",
+      "releaseName": "Example.png",
       "path": "牛津高阶双解8-oalecd8e/Example.png",
       "extension": ".png",
       "kind": "cover",
@@ -32,6 +34,7 @@
     },
     {
       "name": "oalecd8e.css",
+      "releaseName": "oalecd8e.css",
       "path": "牛津高阶双解8-oalecd8e/oalecd8e.css",
       "extension": ".css",
       "kind": "style",
@@ -41,6 +44,7 @@
     },
     {
       "name": "牛津高阶双解8双解预览图.PNG",
+      "releaseName": "牛津高阶双解8双解预览图.PNG",
       "path": "牛津高阶双解8-oalecd8e/牛津高阶双解8双解预览图.PNG",
       "extension": ".png",
       "kind": "image",
@@ -50,6 +54,7 @@
     },
     {
       "name": "牛津高阶双解8英英预览图.PNG",
+      "releaseName": "牛津高阶双解8英英预览图.PNG",
       "path": "牛津高阶双解8-oalecd8e/牛津高阶双解8英英预览图.PNG",
       "extension": ".png",
       "kind": "image",
@@ -59,6 +64,7 @@
     },
     {
       "name": "牛津高阶英汉双解词典(第8版).1.mdd",
+      "releaseName": "牛津高阶英汉双解词典(第8版).1.mdd",
       "path": "牛津高阶双解8-oalecd8e/牛津高阶英汉双解词典(第8版).1.mdd",
       "extension": ".mdd",
       "kind": "resource",
@@ -66,6 +72,7 @@
     },
     {
       "name": "牛津高阶英汉双解词典(第8版).mdd",
+      "releaseName": "牛津高阶英汉双解词典(第8版).mdd",
       "path": "牛津高阶双解8-oalecd8e/牛津高阶英汉双解词典(第8版).mdd",
       "extension": ".mdd",
       "kind": "resource",
@@ -73,6 +80,7 @@
     },
     {
       "name": "牛津高阶英汉双解词典(第8版).mdx",
+      "releaseName": "牛津高阶英汉双解词典(第8版).mdx",
       "path": "牛津高阶双解8-oalecd8e/牛津高阶英汉双解词典(第8版).mdx",
       "extension": ".mdx",
       "kind": "dictionary",
@@ -80,6 +88,7 @@
     },
     {
       "name": "牛津高阶英汉双解词典(第8版).png",
+      "releaseName": "牛津高阶英汉双解词典(第8版).png",
       "path": "牛津高阶双解8-oalecd8e/牛津高阶英汉双解词典(第8版).png",
       "extension": ".png",
       "kind": "image",

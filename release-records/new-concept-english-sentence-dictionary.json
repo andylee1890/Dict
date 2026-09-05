@@ -10,6 +10,7 @@
   "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/new-concept-english-sentence-dictionary.json",
   "cover": {
     "name": "Example.png",
+    "releaseName": "Example.png",
     "path": "新概念英语句典/Example.png",
     "extension": ".png",
     "kind": "cover",
@@ -23,6 +24,7 @@
   "assets": [
     {
       "name": "Example.png",
+      "releaseName": "Example.png",
       "path": "新概念英语句典/Example.png",
       "extension": ".png",
       "kind": "cover",
@@ -32,11 +34,12 @@
     },
     {
       "name": "[英-汉] 《新概念英語句典》[5486](090523).mdx",
+      "releaseName": "new-concept-english-sentence-dictionary.mdx",
       "path": "新概念英语句典/[英-汉] 《新概念英語句典》[5486](090523).mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/new-concept-english-sentence-dictionary/%5B%E8%8B%B1-%E6%B1%89%5D%20%E3%80%8A%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AA%9E%E5%8F%A5%E5%85%B8%E3%80%8B%5B5486%5D%28090523%29.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/new-concept-english-sentence-dictionary/new-concept-english-sentence-dictionary.mdx"
     }
   ],
-  "published": false
+  "published": true
 }

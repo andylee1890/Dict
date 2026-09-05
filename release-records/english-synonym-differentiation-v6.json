@@ -10,6 +10,7 @@
   "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/english-synonym-differentiation-v6.json",
   "cover": {
     "name": "Example.png",
+    "releaseName": "Example.png",
     "path": "英语近义词辨析v6/Example.png",
     "extension": ".png",
     "kind": "cover",
@@ -23,6 +24,7 @@
   "assets": [
     {
       "name": "Example.png",
+      "releaseName": "Example.png",
       "path": "英语近义词辨析v6/Example.png",
       "extension": ".png",
       "kind": "cover",
@@ -32,6 +34,7 @@
     },
     {
       "name": "英语近义词辨析.jpg",
+      "releaseName": "英语近义词辨析.jpg",
       "path": "英语近义词辨析v6/英语近义词辨析.jpg",
       "extension": ".jpg",
       "kind": "image",
@@ -41,6 +44,7 @@
     },
     {
       "name": "英语近义词辨析.mdx",
+      "releaseName": "英语近义词辨析.mdx",
       "path": "英语近义词辨析v6/英语近义词辨析.mdx",
       "extension": ".mdx",
       "kind": "dictionary",

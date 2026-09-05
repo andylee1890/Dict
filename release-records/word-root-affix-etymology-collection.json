@@ -10,6 +10,7 @@
   "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/word-root-affix-etymology-collection.json",
   "cover": {
     "name": "Example.png",
+    "releaseName": "Example.png",
     "path": "词根词缀词源 （合集词典）/Example.png",
     "extension": ".png",
     "kind": "cover",
@@ -23,6 +24,7 @@
   "assets": [
     {
       "name": "Example.png",
+      "releaseName": "Example.png",
       "path": "词根词缀词源 （合集词典）/Example.png",
       "extension": ".png",
       "kind": "cover",
@@ -32,6 +34,7 @@
     },
     {
       "name": "Tarov.css",
+      "releaseName": "Tarov.css",
       "path": "词根词缀词源 （合集词典）/Tarov.css",
       "extension": ".css",
       "kind": "style",
@@ -41,6 +44,7 @@
     },
     {
       "name": "Tarov.js",
+      "releaseName": "Tarov.js",
       "path": "词根词缀词源 （合集词典）/Tarov.js",
       "extension": ".js",
       "kind": "script",
@@ -50,6 +54,7 @@
     },
     {
       "name": "The Affix Root of Vocabulary.mdx",
+      "releaseName": "The Affix Root of Vocabulary.mdx",
       "path": "词根词缀词源 （合集词典）/The Affix Root of Vocabulary.mdx",
       "extension": ".mdx",
       "kind": "dictionary",

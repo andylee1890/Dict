@@ -10,6 +10,7 @@
   "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/collins-cobuild-overhaul-v2-30.json",
   "cover": {
     "name": "Example.png",
+    "releaseName": "Example.png",
     "path": "CollinsCOBUILDOverhaul v2.30/Example.png",
     "extension": ".png",
     "kind": "cover",
@@ -23,6 +24,7 @@
   "assets": [
     {
       "name": "Example.png",
+      "releaseName": "Example.png",
       "path": "CollinsCOBUILDOverhaul v2.30/Example.png",
       "extension": ".png",
       "kind": "cover",
@@ -32,6 +34,7 @@
     },
     {
       "name": "colcobuildoverhaul_switch的副本.js",
+      "releaseName": "colcobuildoverhaul_switch的副本.js",
       "path": "CollinsCOBUILDOverhaul v2.30/colcobuildoverhaul_switch的副本.js",
       "extension": ".js",
       "kind": "script",
@@ -41,6 +44,7 @@
     },
     {
       "name": "colcobuildstyle.css",
+      "releaseName": "colcobuildstyle.css",
       "path": "CollinsCOBUILDOverhaul v2.30/colcobuildstyle.css",
       "extension": ".css",
       "kind": "style",
@@ -50,6 +54,7 @@
     },
     {
       "name": "colcobuildstyle_switch.css",
+      "releaseName": "colcobuildstyle_switch.css",
       "path": "CollinsCOBUILDOverhaul v2.30/colcobuildstyle_switch.css",
       "extension": ".css",
       "kind": "style",
@@ -59,6 +64,7 @@
     },
     {
       "name": "colcobuildstyle_upgrade.css",
+      "releaseName": "colcobuildstyle_upgrade.css",
       "path": "CollinsCOBUILDOverhaul v2.30/colcobuildstyle_upgrade.css",
       "extension": ".css",
       "kind": "style",
@@ -68,6 +74,7 @@
     },
     {
       "name": "CollinsCOBUILDOverhaul V 2-30.mdx",
+      "releaseName": "CollinsCOBUILDOverhaul V 2-30.mdx",
       "path": "CollinsCOBUILDOverhaul v2.30/CollinsCOBUILDOverhaul V 2-30.mdx",
       "extension": ".mdx",
       "kind": "dictionary",
@@ -75,6 +82,7 @@
     },
     {
       "name": "CollinsCOBUILDOverhaul V 2-30.png",
+      "releaseName": "CollinsCOBUILDOverhaul V 2-30.png",
       "path": "CollinsCOBUILDOverhaul v2.30/CollinsCOBUILDOverhaul V 2-30.png",
       "extension": ".png",
       "kind": "image",
@@ -84,6 +92,7 @@
     },
     {
       "name": "柯林斯双解预览图.PNG",
+      "releaseName": "柯林斯双解预览图.PNG",
       "path": "CollinsCOBUILDOverhaul v2.30/柯林斯双解预览图.PNG",
       "extension": ".png",
       "kind": "image",
@@ -93,6 +102,7 @@
     },
     {
       "name": "柯林斯英英预览图.PNG",
+      "releaseName": "柯林斯英英预览图.PNG",
       "path": "CollinsCOBUILDOverhaul v2.30/柯林斯英英预览图.PNG",
       "extension": ".png",
       "kind": "image",

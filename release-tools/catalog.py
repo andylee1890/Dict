@@ -56,9 +56,14 @@ RELEASE_TAGS = {
 
 PUBLISHED_RELEASES = {
     "collins-cobuild-overhaul-v2-30",
+    "new-concept-english-sentence-dictionary",
 }
 
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".webp"}
+
+RELEASE_ASSET_NAMES = {
+    ("new-concept-english-sentence-dictionary", "[英-汉] 《新概念英語句典》[5486](090523).mdx"): "new-concept-english-sentence-dictionary.mdx",
+}
 
 
 @dataclass(frozen=True)
@@ -133,12 +138,14 @@ def build_assets(folder: Path, tag: str) -> list[dict]:
         if ext in IGNORED_EXTENSIONS:
             continue
         rel_path = f"{folder.name}/{path.name}"
+        release_asset_name = RELEASE_ASSET_NAMES.get((tag, path.name), path.name)
         asset = {
             "name": path.name,
+            "releaseName": release_asset_name,
             "path": rel_path,
             "extension": ext,
             "kind": classify_asset(path),
-            "releaseUrl": release_asset_url(tag, path.name),
+            "releaseUrl": release_asset_url(tag, release_asset_name),
         }
         if is_tracked(path):
             asset["githubRaw"] = github_raw_url(rel_path)

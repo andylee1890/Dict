@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T09:38:08.565944Z",
+  "generatedAt": "2026-09-05T11:55:07.282867Z",
   "repository": "andylee1890/Dict",
   "branch": "main",
   "downloads": "https://downloads.freemdict.com/",
@@ -26,6 +26,7 @@
       "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/collins-cobuild-overhaul-v2-30.json",
       "cover": {
         "name": "Example.png",
+        "releaseName": "Example.png",
         "path": "CollinsCOBUILDOverhaul v2.30/Example.png",
         "extension": ".png",
         "kind": "cover",
@@ -48,6 +49,7 @@
       "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/ldoce6-en-cn-v3-0.json",
       "cover": {
         "name": "Example.png",
+        "releaseName": "Example.png",
         "path": "LDOCE6++ En-Cn V3-0/Example.png",
         "extension": ".png",
         "kind": "cover",
@@ -70,6 +72,7 @@
       "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/word-definition-ratio.json",
       "cover": {
         "name": "Example.png",
+        "releaseName": "Example.png",
         "path": "单词释义比例/Example.png",
         "extension": ".png",
         "kind": "cover",
@@ -92,6 +95,7 @@
       "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/new-concept-english-sentence-dictionary.json",
       "cover": {
         "name": "Example.png",
+        "releaseName": "Example.png",
         "path": "新概念英语句典/Example.png",
         "extension": ".png",
         "kind": "cover",
@@ -102,7 +106,7 @@
       "assetCount": 2,
       "trackedAssetCount": 1,
       "releaseOnlyAssetCount": 1,
-      "published": false
+      "published": true
     },
     {
       "id": "longman-reverse-dictionary",
@@ -114,6 +118,7 @@
       "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/longman-reverse-dictionary.json",
       "cover": {
         "name": "Example.png",
+        "releaseName": "Example.png",
         "path": "朗文当代反查词典/Example.png",
         "extension": ".png",
         "kind": "cover",
@@ -150,6 +155,7 @@
       "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/oxford-advanced-learner-dictionary-8-oalecd8e.json",
       "cover": {
         "name": "Example.png",
+        "releaseName": "Example.png",
         "path": "牛津高阶双解8-oalecd8e/Example.png",
         "extension": ".png",
         "kind": "cover",
@@ -172,6 +178,7 @@
       "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/oxford-advanced-reverse-dictionary.json",
       "cover": {
         "name": "Example.png",
+        "releaseName": "Example.png",
         "path": "牛津高阶反查词典/Example.png",
         "extension": ".png",
         "kind": "cover",
@@ -194,6 +201,7 @@
       "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/concise-bing-css.json",
       "cover": {
         "name": "Example.png",
+        "releaseName": "Example.png",
         "path": "简明必应版-css/Example.png",
         "extension": ".png",
         "kind": "cover",
@@ -216,6 +224,7 @@
       "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/english-synonym-differentiation-v6.json",
       "cover": {
         "name": "Example.png",
+        "releaseName": "Example.png",
         "path": "英语近义词辨析v6/Example.png",
         "extension": ".png",
         "kind": "cover",
@@ -238,6 +247,7 @@
       "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/word-root-affix-dictionary.json",
       "cover": {
         "name": "Example.png",
+        "releaseName": "Example.png",
         "path": "词根词缀词典/Example.png",
         "extension": ".png",
         "kind": "cover",
@@ -260,6 +270,7 @@
       "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/word-root-affix-etymology-collection.json",
       "cover": {
         "name": "Example.png",
+        "releaseName": "Example.png",
         "path": "词根词缀词源 （合集词典）/Example.png",
         "extension": ".png",
         "kind": "cover",
@@ -282,6 +293,7 @@
       "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/word-root-affix-frequency-etymology.json",
       "cover": {
         "name": "Example.png",
+        "releaseName": "Example.png",
         "path": "词根词缀词频词源/Example.png",
         "extension": ".png",
         "kind": "cover",
@@ -304,6 +316,7 @@
       "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/dr-eye-bilingual-dictionary.json",
       "cover": {
         "name": "Example.png",
+        "releaseName": "Example.png",
         "path": "译典通英汉双向字典/Example.png",
         "extension": ".png",
         "kind": "cover",
@@ -326,6 +339,7 @@
       "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/synonym-differentiation.json",
       "cover": {
         "name": "Example.png",
+        "releaseName": "Example.png",
         "path": "近义词词语辨析/Example.png",
         "extension": ".png",
         "kind": "cover",
@@ -348,6 +362,7 @@
       "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/webster-advanced-english-chinese-dictionary.json",
       "cover": {
         "name": "Example.png",
+        "releaseName": "Example.png",
         "path": "韦氏高阶英汉双解词典/Example.png",
         "extension": ".png",
         "kind": "cover",

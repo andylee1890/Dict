@@ -15,6 +15,7 @@
   "assets": [
     {
       "name": "wjsklshy.css",
+      "releaseName": "wjsklshy.css",
       "path": "柯林斯汉英大词典/wjsklshy.css",
       "extension": ".css",
       "kind": "style",
@@ -24,6 +25,7 @@
     },
     {
       "name": "柯林斯汉英大词典.mdx",
+      "releaseName": "柯林斯汉英大词典.mdx",
       "path": "柯林斯汉英大词典/柯林斯汉英大词典.mdx",
       "extension": ".mdx",
       "kind": "dictionary",

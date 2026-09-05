@@ -10,6 +10,7 @@
   "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/webster-advanced-english-chinese-dictionary.json",
   "cover": {
     "name": "Example.png",
+    "releaseName": "Example.png",
     "path": "韦氏高阶英汉双解词典/Example.png",
     "extension": ".png",
     "kind": "cover",
@@ -23,6 +24,7 @@
   "assets": [
     {
       "name": "Example.png",
+      "releaseName": "Example.png",
       "path": "韦氏高阶英汉双解词典/Example.png",
       "extension": ".png",
       "kind": "cover",
@@ -32,6 +34,7 @@
     },
     {
       "name": "韦氏高阶英汉双解词典.mdx",
+      "releaseName": "韦氏高阶英汉双解词典.mdx",
       "path": "韦氏高阶英汉双解词典/韦氏高阶英汉双解词典.mdx",
       "extension": ".mdx",
       "kind": "dictionary",

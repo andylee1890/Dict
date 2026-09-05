@@ -10,6 +10,7 @@
   "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/concise-bing-css.json",
   "cover": {
     "name": "Example.png",
+    "releaseName": "Example.png",
     "path": "简明必应版-css/Example.png",
     "extension": ".png",
     "kind": "cover",
@@ -23,6 +24,7 @@
   "assets": [
     {
       "name": "Example.png",
+      "releaseName": "Example.png",
       "path": "简明必应版-css/Example.png",
       "extension": ".png",
       "kind": "cover",
@@ -32,6 +34,7 @@
     },
     {
       "name": "concise-bing.css",
+      "releaseName": "concise-bing.css",
       "path": "简明必应版-css/concise-bing.css",
       "extension": ".css",
       "kind": "style",
@@ -41,6 +44,7 @@
     },
     {
       "name": "concise-bing.mdx",
+      "releaseName": "concise-bing.mdx",
       "path": "简明必应版-css/concise-bing.mdx",
       "extension": ".mdx",
       "kind": "dictionary",
