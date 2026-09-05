@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T12:16:58.323608Z",
+  "generatedAt": "2026-09-05T12:24:34.584047Z",
   "repository": "andylee1890/Dict",
   "branch": "main",
   "downloads": "https://downloads.freemdict.com/",
@@ -304,7 +304,7 @@
       "assetCount": 6,
       "trackedAssetCount": 1,
       "releaseOnlyAssetCount": 5,
-      "published": false
+      "published": true
     },
     {
       "id": "dr-eye-bilingual-dictionary",

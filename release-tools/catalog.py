@@ -61,6 +61,7 @@ PUBLISHED_RELEASES = {
     "word-definition-ratio",
     "word-root-affix-dictionary",
     "english-synonym-differentiation-v6",
+    "word-root-affix-frequency-etymology",
 }
 
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".webp"}

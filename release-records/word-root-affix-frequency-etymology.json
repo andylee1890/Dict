@@ -34,44 +34,44 @@
     },
     {
       "name": "优词英语词源词典 (aepicure on 六月的风8, 2016-09-09) 紧凑版.mdd",
-      "releaseName": "word-root-affix-frequency-etymology.mdd",
+      "releaseName": "优词英语词源词典 (aepicure on 六月的风8, 2016-09-09) 紧凑版.mdd",
       "path": "词根词缀词频词源/优词英语词源词典 (aepicure on 六月的风8, 2016-09-09) 紧凑版.mdd",
       "extension": ".mdd",
       "kind": "resource",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-frequency-etymology/word-root-affix-frequency-etymology.mdd"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-frequency-etymology/%E4%BC%98%E8%AF%8D%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%BA%90%E8%AF%8D%E5%85%B8%20%28aepicure%20on%20%E5%85%AD%E6%9C%88%E7%9A%84%E9%A3%8E8%2C%202016-09-09%29%20%E7%B4%A7%E5%87%91%E7%89%88.mdd"
     },
     {
       "name": "优词英语词源词典 (aepicure on 六月的风8, 2016-09-09) 紧凑版.mdx",
-      "releaseName": "word-root-affix-frequency-etymology-1.mdx",
+      "releaseName": "优词英语词源词典 (aepicure on 六月的风8, 2016-09-09) 紧凑版.mdx",
       "path": "词根词缀词频词源/优词英语词源词典 (aepicure on 六月的风8, 2016-09-09) 紧凑版.mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-frequency-etymology/word-root-affix-frequency-etymology-1.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-frequency-etymology/%E4%BC%98%E8%AF%8D%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%BA%90%E8%AF%8D%E5%85%B8%20%28aepicure%20on%20%E5%85%AD%E6%9C%88%E7%9A%84%E9%A3%8E8%2C%202016-09-09%29%20%E7%B4%A7%E5%87%91%E7%89%88.mdx"
     },
     {
       "name": "李平武+蒋真 词根 (7291).mdx",
-      "releaseName": "word-root-affix-frequency-etymology-2.mdx",
+      "releaseName": "李平武+蒋真 词根 (7291).mdx",
       "path": "词根词缀词频词源/李平武+蒋真 词根 (7291).mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-frequency-etymology/word-root-affix-frequency-etymology-2.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-frequency-etymology/%E6%9D%8E%E5%B9%B3%E6%AD%A6%2B%E8%92%8B%E7%9C%9F%20%E8%AF%8D%E6%A0%B9%20%287291%29.mdx"
     },
     {
       "name": "童哥词根(23528).mdx",
-      "releaseName": "word-root-affix-frequency-etymology-3.mdx",
+      "releaseName": "童哥词根(23528).mdx",
       "path": "词根词缀词频词源/童哥词根(23528).mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-frequency-etymology/word-root-affix-frequency-etymology-3.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-frequency-etymology/%E7%AB%A5%E5%93%A5%E8%AF%8D%E6%A0%B9%2823528%29.mdx"
     },
     {
       "name": "英语词根词缀词频.mdx",
-      "releaseName": "word-root-affix-frequency-etymology-4.mdx",
+      "releaseName": "英语词根词缀词频.mdx",
       "path": "词根词缀词频词源/英语词根词缀词频.mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-frequency-etymology/word-root-affix-frequency-etymology-4.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-frequency-etymology/%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80%E8%AF%8D%E9%A2%91.mdx"
     }
   ],
-  "published": false
+  "published": true
 }
