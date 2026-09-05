@@ -16,6 +16,7 @@
     "extension": ".png",
     "kind": "cover",
     "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-definition-ratio/Example.png",
+    "r2Url": "https://media.englishanchor.online/dict/%E5%8D%95%E8%AF%8D%E9%87%8A%E4%B9%89%E6%AF%94%E4%BE%8B/Example.png",
     "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E5%8D%95%E8%AF%8D%E9%87%8A%E4%B9%89%E6%AF%94%E4%BE%8B/Example.png",
     "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E5%8D%95%E8%AF%8D%E9%87%8A%E4%B9%89%E6%AF%94%E4%BE%8B/Example.png"
   },
@@ -30,6 +31,7 @@
       "extension": ".png",
       "kind": "cover",
       "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-definition-ratio/Example.png",
+      "r2Url": "https://media.englishanchor.online/dict/%E5%8D%95%E8%AF%8D%E9%87%8A%E4%B9%89%E6%AF%94%E4%BE%8B/Example.png",
       "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E5%8D%95%E8%AF%8D%E9%87%8A%E4%B9%89%E6%AF%94%E4%BE%8B/Example.png",
       "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E5%8D%95%E8%AF%8D%E9%87%8A%E4%B9%89%E6%AF%94%E4%BE%8B/Example.png"
     },

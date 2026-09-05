@@ -8,6 +8,8 @@ from urllib.parse import quote
 
 REPOSITORY = "andylee1890/Dict"
 BRANCH = "main"
+R2_PUBLIC_BASE_URL = "https://media.englishanchor.online"
+R2_PREFIX = "dict"
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE_ROOT = ROOT
@@ -129,6 +131,10 @@ def release_asset_url(tag: str, asset_name: str) -> str:
     return f"https://github.com/{REPOSITORY}/releases/download/{quote(tag, safe='')}/{quote(asset_name, safe='')}"
 
 
+def r2_url(path: str) -> str:
+    return f"{R2_PUBLIC_BASE_URL}/{R2_PREFIX}/{_quote_path(path)}"
+
+
 def is_tracked(path: Path) -> bool:
     return path.suffix.lower() not in IGNORED_EXTENSIONS and path.suffix.lower() not in RELEASE_ONLY_EXTENSIONS
 
@@ -209,6 +215,8 @@ def build_assets(folder: Path, tag: str) -> list[dict]:
             "kind": classify_asset(path),
             "releaseUrl": release_asset_url(tag, release_asset_name),
         }
+        if classify_asset(path) == "cover":
+            asset["r2Url"] = r2_url(rel_path)
         if is_tracked(path):
             asset["githubRaw"] = github_raw_url(rel_path)
             asset["jsDelivr"] = jsdelivr_url(rel_path)
@@ -251,6 +259,10 @@ def build_index() -> dict:
         "repository": REPOSITORY,
         "branch": BRANCH,
         "downloads": "https://downloads.freemdict.com/",
+        "r2": {
+            "baseUrl": R2_PUBLIC_BASE_URL,
+            "prefix": f"{R2_PREFIX}/",
+        },
         "rootReadme": {
             "path": "README.md",
             "githubRaw": github_raw_url("README.md"),
