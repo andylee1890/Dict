@@ -8,11 +8,30 @@
   "recordFile": "release-records/collins-chinese-english-dictionary.json",
   "recordRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/release-records/collins-chinese-english-dictionary.json",
   "recordJsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/release-records/collins-chinese-english-dictionary.json",
-  "cover": null,
-  "assetCount": 2,
-  "trackedAssetCount": 1,
+  "cover": {
+    "name": "Example.png",
+    "releaseName": "Example.png",
+    "path": "柯林斯汉英大词典/Example.png",
+    "extension": ".png",
+    "kind": "cover",
+    "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-chinese-english-dictionary/Example.png",
+    "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E6%9F%AF%E6%9E%97%E6%96%AF%E6%B1%89%E8%8B%B1%E5%A4%A7%E8%AF%8D%E5%85%B8/Example.png",
+    "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E6%9F%AF%E6%9E%97%E6%96%AF%E6%B1%89%E8%8B%B1%E5%A4%A7%E8%AF%8D%E5%85%B8/Example.png"
+  },
+  "assetCount": 3,
+  "trackedAssetCount": 2,
   "releaseOnlyAssetCount": 1,
   "assets": [
+    {
+      "name": "Example.png",
+      "releaseName": "Example.png",
+      "path": "柯林斯汉英大词典/Example.png",
+      "extension": ".png",
+      "kind": "cover",
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-chinese-english-dictionary/Example.png",
+      "githubRaw": "https://raw.githubusercontent.com/andylee1890/Dict/main/%E6%9F%AF%E6%9E%97%E6%96%AF%E6%B1%89%E8%8B%B1%E5%A4%A7%E8%AF%8D%E5%85%B8/Example.png",
+      "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/%E6%9F%AF%E6%9E%97%E6%96%AF%E6%B1%89%E8%8B%B1%E5%A4%A7%E8%AF%8D%E5%85%B8/Example.png"
+    },
     {
       "name": "wjsklshy.css",
       "releaseName": "wjsklshy.css",
