@@ -10,7 +10,6 @@
 ## 约定
 
 - 每个顶层文件夹对应一个 release。
-- `.mdx`、`.mdd`、`.db` 不进 Git 历史，其中 `.mdx` 和 `.mdd` 只通过 release 发布。
+- 公开资产只保留在 release 和索引中。
 - 公开资产会同时保留 GitHub Raw 和 jsDelivr 链接。
 - `Example.png` 作为主封面。
-
