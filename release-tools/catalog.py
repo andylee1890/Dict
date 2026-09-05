@@ -77,18 +77,40 @@ DICTIONARY_STARS = {
 
 PUBLISHED_RELEASES = {
     "collins-cobuild-overhaul-v2-30",
+    "ldoce6-en-cn-v3-0",
     "new-concept-english-sentence-dictionary",
+    "longman-reverse-dictionary",
+    "collins-chinese-english-dictionary",
+    "oxford-advanced-learner-dictionary-8-oalecd8e",
+    "oxford-advanced-reverse-dictionary",
+    "concise-bing-css",
     "synonym-differentiation",
     "word-definition-ratio",
     "word-root-affix-dictionary",
+    "word-root-affix-etymology-collection",
     "english-synonym-differentiation-v6",
     "word-root-affix-frequency-etymology",
+    "dr-eye-bilingual-dictionary",
+    "webster-advanced-english-chinese-dictionary",
 }
 
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".webp"}
 
 RELEASE_ASSET_NAMES = {
+    ("collins-chinese-english-dictionary", "柯林斯汉英大词典.mdx"): "default.mdx",
+    ("ldoce6-en-cn-v3-0", "LDOCE6++ En-Cn V3-0.mdd"): "LDOCE6++.En-Cn.V3-0.mdd",
     ("new-concept-english-sentence-dictionary", "[英-汉] 《新概念英語句典》[5486](090523).mdx"): "new-concept-english-sentence-dictionary.mdx",
+    ("longman-reverse-dictionary", "朗文当代高级英语辞典（第5版 汉英+同义词+例句反查）.mdx"): "longman-reverse-dictionary.mdx",
+    ("oxford-advanced-learner-dictionary-8-oalecd8e", "牛津高阶双解8双解预览图.PNG"): "oalecd8e-chinese-preview.png",
+    ("oxford-advanced-learner-dictionary-8-oalecd8e", "牛津高阶双解8英英预览图.PNG"): "oalecd8e-english-preview.png",
+    ("oxford-advanced-learner-dictionary-8-oalecd8e", "牛津高阶英汉双解词典(第8版).png"): "8.PNG",
+    ("oxford-advanced-learner-dictionary-8-oalecd8e", "牛津高阶英汉双解词典(第8版).1.mdd"): "8.1.mdd",
+    ("oxford-advanced-learner-dictionary-8-oalecd8e", "牛津高阶英汉双解词典(第8版).mdd"): "8.mdd",
+    ("oxford-advanced-learner-dictionary-8-oalecd8e", "牛津高阶英汉双解词典(第8版).mdx"): "8.mdx",
+    ("oxford-advanced-reverse-dictionary", "牛津高阶英汉双解词典（第9版 汉英+同义词+例句反查）.mdx"): "9.+.+.mdx",
+    ("word-root-affix-etymology-collection", "The Affix Root of Vocabulary.mdx"): "The.Affix.Root.of.Vocabulary.mdx",
+    ("dr-eye-bilingual-dictionary", "译典通英汉双向字典.mdx"): "default.mdx",
+    ("webster-advanced-english-chinese-dictionary", "韦氏高阶英汉双解词典.mdx"): "default.mdx",
     ("english-synonym-differentiation-v6", "英语近义词辨析.jpg"): "english-synonym-differentiation-v6.jpg",
     ("english-synonym-differentiation-v6", "英语近义词辨析.mdx"): "english-synonym-differentiation-v6.mdx",
     ("ldoce6-en-cn-v3-0", "LDOCE6++ En-Cn V3-0.mdx"): "LDOCE6++.En-Cn.V3-0.mdx",

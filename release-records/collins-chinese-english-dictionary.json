@@ -47,12 +47,12 @@
     },
     {
       "name": "柯林斯汉英大词典.mdx",
-      "releaseName": "collins-chinese-english-dictionary.mdx",
+      "releaseName": "default.mdx",
       "path": "柯林斯汉英大词典/柯林斯汉英大词典.mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-chinese-english-dictionary/collins-chinese-english-dictionary.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/collins-chinese-english-dictionary/default.mdx"
     }
   ],
-  "published": false
+  "published": true
 }

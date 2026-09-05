@@ -47,12 +47,12 @@
     },
     {
       "name": "concise-bing.mdx",
-      "releaseName": "concise-bing-css.mdx",
+      "releaseName": "concise-bing.mdx",
       "path": "简明必应版-css/concise-bing.mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/concise-bing-css/concise-bing-css.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/concise-bing-css/concise-bing.mdx"
     }
   ],
-  "published": false
+  "published": true
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-05T15:02:25.342462Z",
+  "generatedAt": "2026-09-05T17:51:44.404372Z",
   "repository": "andylee1890/Dict",
   "branch": "main",
   "downloads": "https://downloads.freemdict.com/",
@@ -68,7 +68,7 @@
       "assetCount": 8,
       "trackedAssetCount": 6,
       "releaseOnlyAssetCount": 2,
-      "published": false
+      "published": true
     },
     {
       "id": "word-definition-ratio",
@@ -143,7 +143,7 @@
       "assetCount": 4,
       "trackedAssetCount": 3,
       "releaseOnlyAssetCount": 1,
-      "published": false
+      "published": true
     },
     {
       "id": "collins-chinese-english-dictionary",
@@ -168,7 +168,7 @@
       "assetCount": 3,
       "trackedAssetCount": 2,
       "releaseOnlyAssetCount": 1,
-      "published": false
+      "published": true
     },
     {
       "id": "oxford-advanced-learner-dictionary-8-oalecd8e",
@@ -193,7 +193,7 @@
       "assetCount": 8,
       "trackedAssetCount": 5,
       "releaseOnlyAssetCount": 3,
-      "published": false
+      "published": true
     },
     {
       "id": "oxford-advanced-reverse-dictionary",
@@ -218,7 +218,7 @@
       "assetCount": 4,
       "trackedAssetCount": 3,
       "releaseOnlyAssetCount": 1,
-      "published": false
+      "published": true
     },
     {
       "id": "concise-bing-css",
@@ -243,7 +243,7 @@
       "assetCount": 3,
       "trackedAssetCount": 2,
       "releaseOnlyAssetCount": 1,
-      "published": false
+      "published": true
     },
     {
       "id": "english-synonym-differentiation-v6",
@@ -318,7 +318,7 @@
       "assetCount": 4,
       "trackedAssetCount": 3,
       "releaseOnlyAssetCount": 1,
-      "published": false
+      "published": true
     },
     {
       "id": "word-root-affix-frequency-etymology",
@@ -368,7 +368,7 @@
       "assetCount": 3,
       "trackedAssetCount": 2,
       "releaseOnlyAssetCount": 1,
-      "published": false
+      "published": true
     },
     {
       "id": "synonym-differentiation",
@@ -418,7 +418,7 @@
       "assetCount": 2,
       "trackedAssetCount": 1,
       "releaseOnlyAssetCount": 1,
-      "published": false
+      "published": true
     }
   ]
 }

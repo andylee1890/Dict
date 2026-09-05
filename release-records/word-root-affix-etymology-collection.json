@@ -57,12 +57,12 @@
     },
     {
       "name": "The Affix Root of Vocabulary.mdx",
-      "releaseName": "word-root-affix-etymology-collection.mdx",
+      "releaseName": "The.Affix.Root.of.Vocabulary.mdx",
       "path": "词根词缀词源 （合集词典）/The Affix Root of Vocabulary.mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-etymology-collection/word-root-affix-etymology-collection.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/word-root-affix-etymology-collection/The.Affix.Root.of.Vocabulary.mdx"
     }
   ],
-  "published": false
+  "published": true
 }

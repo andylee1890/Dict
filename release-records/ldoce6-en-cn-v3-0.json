@@ -57,11 +57,11 @@
     },
     {
       "name": "LDOCE6++ En-Cn V3-0.mdd",
-      "releaseName": "ldoce6-en-cn-v3-0.mdd",
+      "releaseName": "LDOCE6++.En-Cn.V3-0.mdd",
       "path": "LDOCE6++ En-Cn V3-0/LDOCE6++ En-Cn V3-0.mdd",
       "extension": ".mdd",
       "kind": "resource",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/ldoce6-en-cn-v3-0/ldoce6-en-cn-v3-0.mdd"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/ldoce6-en-cn-v3-0/LDOCE6%2B%2B.En-Cn.V3-0.mdd"
     },
     {
       "name": "LDOCE6++ En-Cn V3-0.mdx",
@@ -102,5 +102,5 @@
       "jsDelivr": "https://cdn.jsdelivr.net/gh/andylee1890/Dict@main/LDOCE6%2B%2B%20En-Cn%20V3-0/r.png"
     }
   ],
-  "published": false
+  "published": true
 }

@@ -57,12 +57,12 @@
     },
     {
       "name": "牛津高阶英汉双解词典（第9版 汉英+同义词+例句反查）.mdx",
-      "releaseName": "oxford-advanced-reverse-dictionary.mdx",
+      "releaseName": "9.+.+.mdx",
       "path": "牛津高阶反查词典/牛津高阶英汉双解词典（第9版 汉英+同义词+例句反查）.mdx",
       "extension": ".mdx",
       "kind": "dictionary",
-      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/oxford-advanced-reverse-dictionary/oxford-advanced-reverse-dictionary.mdx"
+      "releaseUrl": "https://github.com/andylee1890/Dict/releases/download/oxford-advanced-reverse-dictionary/9.%2B.%2B.mdx"
     }
   ],
-  "published": false
+  "published": true
 }
